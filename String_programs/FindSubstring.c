@@ -1,4 +1,4 @@
-//not completed yet............
+
 #include<stdio.h>
 #include<conio.h>
 void main()
